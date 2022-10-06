@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/JcHLlqofoj/iwsSXDPSlDTl22KUlrgIZf/oQPl3/Zk=",
+  "Hash": "vUEYSNbcFY9Nh7ncuYj2OWbIb+3Q17Md+pl+ZFLy6a4=",
   "Source": "projeto tds3",
   "BasePath": "_content/projeto tds3",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "projeto tds3\\wwwroot",
       "Source": "projeto tds3",
-      "ContentRoot": "E:\\projeto tds3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\",
       "BasePath": "_content/projeto tds3",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\projeto tds3\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projeto tds3.styles.css",
+      "Identity": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projeto tds3.styles.css",
       "SourceId": "projeto tds3",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\projeto tds3\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/projeto tds3",
       "RelativePath": "projeto tds3.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\projeto tds3\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projeto tds3.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projeto tds3.styles.css"
     },
     {
-      "Identity": "E:\\projeto tds3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\projeto tds3.bundle.scp.css",
+      "Identity": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\projeto tds3.bundle.scp.css",
       "SourceId": "projeto tds3",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\projeto tds3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/projeto tds3",
       "RelativePath": "projeto tds3.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\projeto tds3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\projeto tds3.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\projeto tds3.bundle.scp.css"
     },
     {
-      "Identity": "E:\\projeto tds3\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "projeto tds3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projeto tds3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\",
       "BasePath": "_content/projeto tds3",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\projeto tds3\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "projeto tds3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projeto tds3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\",
       "BasePath": "_content/projeto tds3",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\projeto tds3\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "projeto tds3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projeto tds3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\",
       "BasePath": "_content/projeto tds3",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "E:\\projeto tds3\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "projeto tds3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projeto tds3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\",
       "BasePath": "_content/projeto tds3",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "E:\\projeto tds3\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "projeto tds3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projeto tds3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\",
       "BasePath": "_content/projeto tds3",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "E:\\projeto tds3\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "projeto tds3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projeto tds3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\",
       "BasePath": "_content/projeto tds3",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "E:\\projeto tds3\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "projeto tds3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projeto tds3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\",
       "BasePath": "_content/projeto tds3",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "E:\\projeto tds3\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "projeto tds3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projeto tds3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\",
       "BasePath": "_content/projeto tds3",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "E:\\projeto tds3\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "projeto tds3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projeto tds3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\",
       "BasePath": "_content/projeto tds3",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "E:\\projeto tds3\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "projeto tds3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projeto tds3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\",
       "BasePath": "_content/projeto tds3",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "E:\\projeto tds3\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "projeto tds3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projeto tds3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\",
       "BasePath": "_content/projeto tds3",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "E:\\projeto tds3\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\css\\site.css",
       "SourceId": "projeto tds3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projeto tds3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\",
       "BasePath": "_content/projeto tds3",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\projeto tds3\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\favicon.ico",
       "SourceId": "projeto tds3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projeto tds3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\wwwroot\\",
       "BasePath": "_content/projeto tds3",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

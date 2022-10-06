@@ -4,13 +4,41 @@ html, body {
     font-family: Arial, Helvetica, sans-serif;
     
 }
-a{
-    color:black;
-    text-decoration: double;
-    margin: 10px;
-    padding: 10px;
-    background-color: rgba(00, 00, 00, 0.5);
+div#interface{
+    width: auto;
+    background-color: white;
+    margin: auto;
 }
-ul{
+#Menu{
+    display: block;
+}
+#Menu ul{
     list-style: none;
+    text-transform: uppercase;
+    position: absolute;
+    text-align: justify;
+    top: -10px;
+    left: 1000px;
+}
+#Menu li{
+    display: inline-block;
+    background-color: none;
+    padding: 10px;
+    margin: 4px;
+}
+#Menu a{
+    text-decoration: none;
+    color: black;
+}
+#Pagina ul{
+    text-align: left;
+}
+#Pagina li{
+    list-style: none;
+    padding: 15px;
+    margin: 4px;
+}
+#Pagina a{
+    text-decoration: none;
+    color: black;
 }
