@@ -1,9 +1,16 @@
 @page "/login"
 <body>
-<div>
+    <div class="main-box">
+        <p>
+            <MatTextField @bind-Value="@myStringValue" Label="Email" icon="email"></MatTextField>
+        </p>
 
-<h1>Tenha muitas experiências</h1>
-<button class = "test">clique aqui</button>
-
-</div>
+        <p>
+            <MatTextField @bind-Value="@myStringValue" Label="Senha" icon="lock"></MatTextField>
+        </p>
+    </div>
 </body>
+
+@code{
+    string myStringValue;
+}
