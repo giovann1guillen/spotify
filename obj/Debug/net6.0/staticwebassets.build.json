@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vUEYSNbcFY9Nh7ncuYj2OWbIb+3Q17Md+pl+ZFLy6a4=",
+  "Hash": "tWKN1JCuHKr6tTM9PYH31MzE7FcDu8UzKR4pn0aX9v0=",
   "Source": "projeto tds3",
   "BasePath": "_content/projeto tds3",
   "Mode": "Default",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Aluno\\.nuget\\packages\\matblazor\\2.8.0\\staticwebassets\\dist\\matBlazor.css",
+      "SourceId": "MatBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Aluno\\.nuget\\packages\\matblazor\\2.8.0\\staticwebassets\\",
+      "BasePath": "_content/MatBlazor",
+      "RelativePath": "dist/matBlazor.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Aluno\\.nuget\\packages\\matblazor\\2.8.0\\staticwebassets\\dist\\matBlazor.css"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\.nuget\\packages\\matblazor\\2.8.0\\staticwebassets\\dist\\matBlazor.js",
+      "SourceId": "MatBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Aluno\\.nuget\\packages\\matblazor\\2.8.0\\staticwebassets\\",
+      "BasePath": "_content/MatBlazor",
+      "RelativePath": "dist/matBlazor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Aluno\\.nuget\\packages\\matblazor\\2.8.0\\staticwebassets\\dist\\matBlazor.js"
+    },
     {
       "Identity": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projeto tds3.styles.css",
       "SourceId": "projeto tds3",

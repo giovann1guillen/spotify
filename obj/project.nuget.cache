@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "JsoNzYiAv+HbObl3j7h6yxh1iFZZ8P7HZO4oVkpNQDSupNwkR953KgTz25nZr+CCQOugs7/sayffq7qQnYCEYA==",
+  "dgSpecHash": "E2IY9feuK2lQrYHfkp/se7TJKiyjHLtlX+ksnaPq3fHu/lnN3pXm8Q4SablKmj+lIw2tFszEhdAtErBemhvP6w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Aluno\\Documents\\GitHub\\spotify\\projeto tds3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\matblazor\\2.8.0\\matblazor.2.8.0.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.10\\microsoft.aspnetcore.authorization.3.1.10.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.10\\microsoft.aspnetcore.components.3.1.10.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.10\\microsoft.aspnetcore.components.analyzers.3.1.10.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.1.10\\microsoft.aspnetcore.components.forms.3.1.10.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.aspnetcore.components.web\\3.1.10\\microsoft.aspnetcore.components.web.3.1.10.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.1.10\\microsoft.aspnetcore.metadata.3.1.10.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.10\\microsoft.extensions.dependencyinjection.3.1.10.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.10\\microsoft.extensions.dependencyinjection.abstractions.3.1.10.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.10\\microsoft.extensions.logging.abstractions.3.1.10.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.extensions.options\\3.1.10\\microsoft.extensions.options.3.1.10.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.10\\microsoft.extensions.primitives.3.1.10.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.jsinterop\\3.1.10\\microsoft.jsinterop.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
