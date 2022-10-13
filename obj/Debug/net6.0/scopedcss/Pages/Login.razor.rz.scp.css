@@ -1,3 +1,11 @@
 head[b-2jpvjtlva0], body[b-2jpvjtlva0]{
     background-color: aliceblue;
 }
+
+.main-box p[b-2jpvjtlva0]{
+    margin: auto;
+    padding: 10px;
+    
+    
+
+}
