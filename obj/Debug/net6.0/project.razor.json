@@ -227,39 +227,6 @@
         }
       },
       {
-        "HashCode": -603796324,
-        "Kind": "Components.Component",
-        "Name": "projeto_tds3.Pages.Login",
-        "AssemblyName": "projeto tds3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "projeto_tds3.Pages.Login"
-        }
-      },
-      {
-        "HashCode": 577407835,
-        "Kind": "Components.Component",
-        "Name": "projeto_tds3.Pages.Login",
-        "AssemblyName": "projeto tds3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "projeto_tds3.Pages.Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "projeto_tds3.Pages.Login",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1119495934,
         "Kind": "Components.Component",
         "Name": "projeto_tds3.Pages.Index",
@@ -322,6 +289,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "projeto_tds3.Pages.Criarlogin",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -603796324,
+        "Kind": "Components.Component",
+        "Name": "projeto_tds3.Pages.Login",
+        "AssemblyName": "projeto tds3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Login"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "projeto_tds3.Pages.Login"
+        }
+      },
+      {
+        "HashCode": 577407835,
+        "Kind": "Components.Component",
+        "Name": "projeto_tds3.Pages.Login",
+        "AssemblyName": "projeto tds3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "projeto_tds3.Pages.Login"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "projeto_tds3.Pages.Login",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
